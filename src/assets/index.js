@@ -39,6 +39,7 @@ import coffee from "./coffee.png";
 import yalong from "./yalong.png";
 import ashley from "./ashley.png";
 import brent from "./brent.png";
+import axcel from "./axcel.png";
 
 export {
   logo,
@@ -78,4 +79,5 @@ export {
   yalong,
   ashley,
   brent,
+  axcel,
 };

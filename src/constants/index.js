@@ -33,6 +33,7 @@ import {
     yalong,
     ashley,
     brent,
+    axcel,
   } from "../assets";
   
   export const navLinks = [
@@ -195,6 +196,14 @@ import {
       designation: "College Graduate",
       company: "Bulacan State University",
       image: brent,
+    },
+    {
+      testimonial:
+        "As my classmate well you are a well behaved student in class, at first interaction with you in class I thought you were a classy and a great presenter but after a few months I'm right, you have a great fellowship towards the other students that's why I kept in touch with you, I sensed your aura. As a team leader I might never get a chance to be a member with you but as what I observed you are very responsible in every tasks we had in our subjects we sometimes have an exchange of thoughts and knowledge and you made me know you better, in tough situations I saw you being a great leader managing stuffs to get a better result.",
+      name: "Axcel Alcantara",
+      designation: "College Graduate",
+      company: "Bulacan State University",
+      image: axcel,
     },
   ];
   
