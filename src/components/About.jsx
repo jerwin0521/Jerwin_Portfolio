@@ -56,4 +56,8 @@ const About = () => {
   )
 }
 
+//git add .
+//git commit -m 'changes'
+//git push
+
 export default SectionWrapper(About, "about")
